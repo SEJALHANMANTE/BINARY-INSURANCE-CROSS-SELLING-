@@ -1,4 +1,7 @@
 # BINARY-INSURANCE-CROSS-SELLING
+
+![image](https://github.com/user-attachments/assets/ba1f57c6-adf8-4d4c-8277-2d21bce98301)
+
 **💡 About The Competition :**
 -Task: The objective of this competition is to predict which customers respond positively to an automobile insurance offer..
 -Dataset: The dataset for this competition (both train and test) was generated from a deep learning model trained on the Health Insurance Cross Sell Prediction Data dataset. Feature distributions are close to, but not exactly the same, as the original. Feel free to use the original dataset as part of this competition, both to explore differences as well as to see whether incorporating the original in training improves model performance.
