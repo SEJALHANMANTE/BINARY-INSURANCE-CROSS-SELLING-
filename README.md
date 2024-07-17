@@ -4,7 +4,7 @@
 
 # Kaggle Notebook link 
 <a id="Kagglenotebook"></a>
-[KAGGLE NOTEBOOK](#Kagglenotebook)
+[KAGGLE NOTEBOOK]([https://www.kaggle.com/code/sejalhanmante/binary-classification-of-insurance-selling])
 
 **💡 About The Competition :**
 - Task: The objective of this competition is to predict which customers respond positively to an automobile insurance offer..
