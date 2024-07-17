@@ -4,7 +4,7 @@
 
 
 
-[Kaggle Notebook link ]([https://www.kaggle.com/code/sejalhanmante/binary-classification-of-insurance-selling])
+[My Kaggle Notebook link ](https://www.kaggle.com/code/sejalhanmante/binary-classification-of-insurance-selling)
 
 **💡 About The Competition :**
 - Task: The objective of this competition is to predict which customers respond positively to an automobile insurance offer..
